@@ -6,7 +6,7 @@ Description:\
 ● Programmed in Flutter and Dart.\
 ● Project consisted of professional modern development ideas such as code reviews, multi-branching, unit testing.\
 ● Some more additional skills shown in this project was continuous integration with codemagic and integration testing locally.\
-● App was developed using Visual Studio Code and an Android emulator with Android Studio.\
+● App was developed using Visual Studio Code and an Android emulator with Android Studio.
 
 Project Supervisor/Mentor:\
 Eric Michael Martinez
